@@ -1,0 +1,15 @@
+/Users/sozey/Desktop/MaskeTakip-master/Business/bin/Debug/net8.0/Business.deps.json
+/Users/sozey/Desktop/MaskeTakip-master/Business/bin/Debug/net8.0/Business.dll
+/Users/sozey/Desktop/MaskeTakip-master/Business/bin/Debug/net8.0/Business.pdb
+/Users/sozey/Desktop/MaskeTakip-master/Business/bin/Debug/net8.0/Entities.dll
+/Users/sozey/Desktop/MaskeTakip-master/Business/bin/Debug/net8.0/Entities.pdb
+/Users/sozey/Desktop/MaskeTakip-master/Business/obj/Debug/net8.0/Business.csproj.AssemblyReference.cache
+/Users/sozey/Desktop/MaskeTakip-master/Business/obj/Debug/net8.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sozey/Desktop/MaskeTakip-master/Business/obj/Debug/net8.0/Business.AssemblyInfoInputs.cache
+/Users/sozey/Desktop/MaskeTakip-master/Business/obj/Debug/net8.0/Business.AssemblyInfo.cs
+/Users/sozey/Desktop/MaskeTakip-master/Business/obj/Debug/net8.0/Business.csproj.CoreCompileInputs.cache
+/Users/sozey/Desktop/MaskeTakip-master/Business/obj/Debug/net8.0/Business.csproj.CopyComplete
+/Users/sozey/Desktop/MaskeTakip-master/Business/obj/Debug/net8.0/Business.dll
+/Users/sozey/Desktop/MaskeTakip-master/Business/obj/Debug/net8.0/refint/Business.dll
+/Users/sozey/Desktop/MaskeTakip-master/Business/obj/Debug/net8.0/Business.pdb
+/Users/sozey/Desktop/MaskeTakip-master/Business/obj/Debug/net8.0/ref/Business.dll

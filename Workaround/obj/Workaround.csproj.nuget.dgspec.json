@@ -1,0 +1,197 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sozey/Desktop/MaskeTakip-master/Workaround/Workaround.csproj": {}
+  },
+  "projects": {
+    "/Users/sozey/Desktop/MaskeTakip-master/Business/Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sozey/Desktop/MaskeTakip-master/Business/Business.csproj",
+        "projectName": "Business",
+        "projectPath": "/Users/sozey/Desktop/MaskeTakip-master/Business/Business.csproj",
+        "packagesPath": "/Users/sozey/.nuget/packages/",
+        "outputPath": "/Users/sozey/Desktop/MaskeTakip-master/Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sozey/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sozey/Desktop/MaskeTakip-master/Entities/Entities.csproj": {
+                "projectPath": "/Users/sozey/Desktop/MaskeTakip-master/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            },
+            "System.ServiceModel.Federation": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[4.10.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sozey/Desktop/MaskeTakip-master/Entities/Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sozey/Desktop/MaskeTakip-master/Entities/Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "/Users/sozey/Desktop/MaskeTakip-master/Entities/Entities.csproj",
+        "packagesPath": "/Users/sozey/.nuget/packages/",
+        "outputPath": "/Users/sozey/Desktop/MaskeTakip-master/Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sozey/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sozey/Desktop/MaskeTakip-master/Workaround/Workaround.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sozey/Desktop/MaskeTakip-master/Workaround/Workaround.csproj",
+        "projectName": "Workaround",
+        "projectPath": "/Users/sozey/Desktop/MaskeTakip-master/Workaround/Workaround.csproj",
+        "packagesPath": "/Users/sozey/.nuget/packages/",
+        "outputPath": "/Users/sozey/Desktop/MaskeTakip-master/Workaround/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sozey/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sozey/Desktop/MaskeTakip-master/Business/Business.csproj": {
+                "projectPath": "/Users/sozey/Desktop/MaskeTakip-master/Business/Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
